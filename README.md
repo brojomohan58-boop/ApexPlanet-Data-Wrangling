@@ -251,7 +251,7 @@ Data Analytics Intern
 
 GitHub: https://github.com/brojomohan58-boop
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/brojo-mohan-dutta
 
 ---
 
