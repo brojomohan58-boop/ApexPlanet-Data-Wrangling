@@ -82,7 +82,7 @@ ApexPlanet-Internship/
 │   └── LICENSE
 │
 │
-├── ApexPlanet-Task2-EDA-Business-Intelligence/
+├── ApexPlanet-Task2-EDA&Business-Intelligence/
 │   │
 │   ├── 01_sql/
 │   │      ApexPlanet_Task2_EDA_BI_SQL_Queries.sql
@@ -222,6 +222,12 @@ The executive dashboard contains:
 
 ---
 
+# 📷 Dashboard Preview
+
+![Static Dashboard Mock-Up](ApexPlanet-Task2-EDA&Business-Intelligence/04_dashboard/dashboard_mockup.png)
+
+---
+
 # 📌 Key Insights
 
 ### Data Wrangling
@@ -249,16 +255,6 @@ The executive dashboard contains:
 - Age has minimal linear relationship with revenue.
 - Category has a stronger impact on sales than customer demographics.
 - Revenue distribution is balanced across gender and age groups.
-
----
-
-# 📷 Dashboard Preview
-
-![Static Dashboard Mock-Up](ApexPlanet-Task2-EDA&Business-Intelligence/04_dashboard/dashboard_mockup.png)
-
-```
-04_dashboard/dashboard_mockup.png
-```
 
 ---
 
