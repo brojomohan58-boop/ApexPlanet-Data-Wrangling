@@ -254,7 +254,7 @@ The executive dashboard contains:
 
 # 📷 Dashboard Preview
 
-> Replace with your dashboard image
+![Static Dashboard Mock-Up](ApexPlanet-Task2-EDA & Business-Intelligence/04_dashboard/dashboard_mockup.png)
 
 ```
 04_dashboard/dashboard_mockup.png
