@@ -254,7 +254,7 @@ The executive dashboard contains:
 
 # 📷 Dashboard Preview
 
-![Static Dashboard Mock-Up](ApexPlanet-Task2-EDA & Business-Intelligence/04_dashboard/dashboard_mockup.png)
+![Static Dashboard Mock-Up](ApexPlanet-Task2-EDA&Business-Intelligence/04_dashboard/dashboard_mockup.png)
 
 ```
 04_dashboard/dashboard_mockup.png
